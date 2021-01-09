@@ -28,7 +28,6 @@ func Decode(r string) int {
 		}
 		a = append(a, rs[lc])
 	}
-	fmt.Println(t)
 	return t
 }
 
