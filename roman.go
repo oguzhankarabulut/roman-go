@@ -1,4 +1,4 @@
-package roman_go
+package roman
 
 import (
 	"fmt"
