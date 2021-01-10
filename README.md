@@ -4,7 +4,7 @@ Simple go package for roman numerals encoding and decoding.
 ## Usage ##
 
 ```go
-import "github.com/oguzhankarabulut/roman-go"	,
+import "github.com/oguzhankarabulut/roman-go"
 
 func main()  {
 
@@ -21,4 +21,4 @@ For correct answer use this package in 0, 4000 range.
 
 ## TODO ##
 
-- [ ] Compatitable for greater 4000
+- [ ] Compatitable for greater than 4000
