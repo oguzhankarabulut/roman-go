@@ -4,7 +4,8 @@ Simple go package for roman numerals encoding and decoding.
 ## Usage ##
 
 ```go
-import "github.com/oguzhankarabulut/roman-go"	
+import "github.com/oguzhankarabulut/roman-go"	,
+
 func main()  {
 
   //Decode roman numeral string to int
