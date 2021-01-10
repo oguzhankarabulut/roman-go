@@ -8,10 +8,10 @@ import "github.com/oguzhankarabulut/roman-go"
 func main()  {
 
   //Decode roman numeral string to int
-	roman.Decode("MMDCCCXXXVII")
+	roman.Decode("MMDCCCXXXVII") // return 2837
   
   //Encode int to roman numreal string
-	roman.Encode(2837)
+	roman.Encode(2837) //return "MMDCCCXXXVII"
 }
 ```
 
