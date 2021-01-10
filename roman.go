@@ -34,7 +34,7 @@ func Decode(r string) int {
 func Encode(i int) string {
 
 	if i < 1 || i > 4000 {
-		return "ROMAN_OUT_OF_RANGE"
+		return "out of range"
 	}
 
 	m := i / 1000
